@@ -1,0 +1,23 @@
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    list-style: none;
+    justify-content: center;
+    padding: 0;
+}
+
+.gallery-image {
+    width: 360px;
+    height: 200px;
+}
+
+.basicLightbox {
+    background: rgba(46, 47, 66, 0.8);
+}
+
+.modal-img {
+    height: 640px;
+    width: 1112px;
+}
